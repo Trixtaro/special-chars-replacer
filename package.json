@@ -1,0 +1,22 @@
+{
+  "name": "special-chars-replacer",
+  "version": "1.0.0",
+  "description": "A library for replace special chars from other languages to ASCII chars. Spanish and Portuguese support.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "spanish",
+    "chars",
+    "replacer"
+  ],
+  "author": "trixtaro",
+  "license": "MIT",
+  "bin": {
+    "special-chars-replacer": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
